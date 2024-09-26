@@ -6,7 +6,7 @@ Build a Python Website in 15 Minutes With Streamlit
 
 You can find more in this video.
 
-[![Video 1](https://i.ytimg.com/vi/2siBrMsqF44/hqdefault_10900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdy8tD3wJxOtFwjYNDTHFk_2lyBQ)](https://www.youtube.com/watch?v=2siBrMsqF44&t=99s)
+[![Video 1](https://i.ytimg.com/an_webp/2siBrMsqF44/mqdefault_6s.webp?du=3000&sqp=CICl17cG&rs=AOn4CLDz_KJdJEoKpFl4xW8wGIesFTqRGA)](https://www.youtube.com/watch?v=2siBrMsqF44&t=99s)
 
 ## Run the application
 
