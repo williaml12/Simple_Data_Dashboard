@@ -2,14 +2,6 @@
 
 Build a Python Website in 15 Minutes With Streamlit
 
-## Getting Started
-
-You can find more info in this video.
-
-[![Video 1](https://i.ytimg.com/an_webp/2siBrMsqF44/mqdefault_6s.webp?du=3000&sqp=CICl17cG&rs=AOn4CLDz_KJdJEoKpFl4xW8wGIesFTqRGA)](https://www.youtube.com/watch?v=2siBrMsqF44&t=99s)
-
-## Run the application
-
 To run the portfolio website locally, follow these steps:
 
 1. Clone this repository.
